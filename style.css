@@ -1,0 +1,92 @@
+body {
+  height: 100vh;
+  background: #000;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.mainCard {
+  width: 428px;
+  height: 926px;
+  background-color: #243153;
+  background-image: url("/src/images/Vector\ 675.png");
+}
+
+.vetorImage {
+  position: absolute;
+  width: 100%;
+  margin: 0 39px;
+}
+.userIamge {
+  margin: 17.94px 20.21px 22.44px 21.21px;
+  /* 56px */
+  position: relative;
+  top: 10px;
+  left: 5px;
+}
+.logo {
+  position: relative;
+  top: -25px;
+  left: 220px;
+}
+.useName {
+  padding-top: 43px;
+  font-family: "Montserrat", sans-serif;
+
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 43px;
+  letter-spacing: 0.05em;
+
+  color: #243153;
+}
+.profession {
+  margin-top: 7px;
+  font-family: "roboto";
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 26px;
+  color: #243153;
+}
+.address {
+  margin-top: 21px;
+}
+.basic-info {
+  margin-left: 28px;
+  margin-bottom: 35px;
+}
+.icon img {
+  margin-top: 3px;
+}
+.iconText {
+  margin-left: 20.43px;
+  font-size: 12px;
+}
+.footer {
+  margin-top: 66.7px;
+}
+.info {
+  font-family: "Poppins";
+  margin-right: 31px;
+  color: #ffe97a;
+  font-size: 12px;
+  line-height: 23px;
+}
+.footer-icon {
+  margin-top: 83.59px;
+}
+.line {
+  color: #ffe97a;
+  position: absolute;
+  width: 130.5px;
+  left: 267px;
+  top: 806.5px;
+  border: 2px solid #ffe97a;
+}
+.footer-icon {
+  margin-top: 53px;
+}
+.footer-icon img {
+  margin-left: 49px;
+  margin-bottom: 58px;
+}
