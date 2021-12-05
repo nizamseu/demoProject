@@ -75,13 +75,13 @@ body {
 .footer-icon {
   margin-top: 83.59px;
 }
-.line {
+.shortLine {
   color: #ffe97a;
   position: absolute;
   width: 130.5px;
   left: 267px;
-  top: 806.5px;
-  border: 2px solid #ffe97a;
+  margin-top: 31.5;
+  border: 1px solid #ffe97a;
 }
 .footer-icon {
   margin-top: 53px;
