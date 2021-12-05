@@ -6,23 +6,24 @@ body {
   background-color: #243153;
   background-image: url("src/images/Vector 675.png");
   background-repeat: no-repeat;
+  width: 442px;
 }
 
 .vetorImage {
   position: absolute;
-  margin: 0 39px;
+  margin: 10px 39px;
 }
 
 .userIamge {
   position: relative;
-  top: 20px;
-  /* left: 5px; */
+  top: 30px;
+  left: 65px;
 }
 
 .logo {
   position: relative;
-  top: -30px;
-  left: 270px;
+  top: 145px;
+  right: 125px;
 }
 
 .useName {
@@ -62,7 +63,7 @@ body {
 }
 
 .footer {
-  margin-top: 70px;
+  margin-top: 110px;
   float: right;
 }
 
